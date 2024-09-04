@@ -1,0 +1,1 @@
+(()=>{"use strict";var e={721:(e,n)=>{Object.defineProperty(n,"__esModule",{value:!0}),n.WindowOpener=void 0,n.WindowOpener=class{openWindow(){console.log("Opening window")}}}},n={};(new(function o(r){var i=n[r];if(void 0!==i)return i.exports;var p=n[r]={exports:{}};return e[r](p,p.exports,o),p.exports}(721).WindowOpener)).openWindow()})();
